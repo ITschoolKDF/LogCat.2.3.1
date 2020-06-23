@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LogCat.2.3.1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_string">Hello World!</string>
+</resources>

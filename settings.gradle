@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "LogCat.2.3.1"
